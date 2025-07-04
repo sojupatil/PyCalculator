@@ -13,8 +13,8 @@ def divide(n,m):
     return n/m
 
 
-first = int(input("Enter First Number "))
-second = int(input("Enter Second Number "))
+first = float(input("Enter First Number "))
+second = float(input("Enter Second Number "))
 option = input("Enter Choice:\n\nEnter add for Addition\nEnter sub for Subtraction\nEnter mul for Multiplication\nEnter div for Divide\n")
 
 if(option == "add"):

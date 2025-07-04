@@ -13,9 +13,9 @@ def divide(n,m):
     return n/m
 
 
-first = float(input("Enter First Number "))
-second = float(input("Enter Second Number "))
-option = input("Enter Choice:\n\nEnter add for Addition\nEnter sub for Subtraction\nEnter mul for Multiplication\nEnter div for Divide\n")
+first = float(input("Enter First Number: "))
+second = float(input("Enter Second Number: "))
+option = input("Choose Operation:\n\n- add for Addition\n- sub for Subtraction\n- mul for Multiplication\n- div for Divide\nEnter Your Choice: ")
 
 if(option == "add"):
     print(add(first,second))

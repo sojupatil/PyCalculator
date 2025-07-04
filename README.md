@@ -6,7 +6,7 @@ This project takes two numbers from the user and performs basic arithmetic opera
 - Addition
 - Subtraction
 - Multiplication
-- Division (with divide-by-zero handling)
+- Division 
 
 ---
 
